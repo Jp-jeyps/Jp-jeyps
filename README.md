@@ -19,7 +19,7 @@ Julia Poplavska</p>
     <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-   <a href="[sms:+48576702419](https://wa.me/48576702419)">
+   <a href="https://wa.me/48576702419">
     <img height="28" src="https://img.shields.io/badge/Message-25D366?style=for-the-badge&logo=messenger&logoColor=white"/>
   </a>
 </p>
@@ -111,7 +111,7 @@ Let's connect, exchange perspectives, and build something interesting! Feel free
     <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-   <a href="[sms:+48576702419](https://wa.me/48576702419)">
+   <a href="https://wa.me/48576702419">
     <img height="28" src="https://img.shields.io/badge/Message-25D366?style=for-the-badge&logo=messenger&logoColor=white"/>
   </a>
 </p>
