@@ -93,7 +93,7 @@ Let's connect, exchange perspectives, and build something interesting! Feel free
 ---
 
 <span id="polski"></span>
-<img width="1728" height="386" alt="Image" src="https://github.com/user-attachments/assets/6799553a-e959-4b2b-a66d-6933bb946e25" />
+<img width="1728" height="386" alt="Image" src="https://github.com/user-attachments/assets/6694e9ce-90de-4dee-a3d7-8880b7249fc1" />
 
 ---
 
