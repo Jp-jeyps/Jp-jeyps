@@ -9,7 +9,7 @@
 
 ### 👋 About Me
 
-Data Analyst with **3 years** of practical experience analyzing and processing high-volume datasets across financial and retail operations.
+Data Specialist with **3 years** of practical experience processing high-volume datasets across financial and retail operations.
 Proficient in:
 - **Extracting and transforming** data using Python.
 - **Improving** data processing through tailored pipelines and custom apps.
