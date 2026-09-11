@@ -1,29 +1,12 @@
-<h1>
-Julia Poplavska</p>
-  <sup>Data Analyst | 3 yrs experience</sup>
-</h1>
+# Julia Poplavska
 
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Python+%E2%80%A2+SQL+%E2%80%A2+Power+Bi+%E2%80%A2+Excel" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=Python+%E2%80%A2+SQL+%E2%80%A2+Power+Bi+%E2%80%A2+Excel" alt="Typing SVG" /></a>
 
-<p>
-  <a href="https://github.com/user-attachments/files/xxxxxxx/CV-en.pdf">
-   <img height="28" src="https://img.shields.io/badge/CV-BE6CF7?style=for-the-badge&logo=readdotcv&logoColor=white"/>
- </a>
-
-  <a href="https://www.linkedin.com/in/jpoplavska/">
-    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:j.p.julia.poplavska@gmail.com">
-    <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+[View my CV](https://github.com/user-attachments/files/xxxxxxx/CV-en.pdf)
+ 
 ---
 
-## About Me
+### 👋 About Me
 
 Data Analyst with **3 years** of practical experience analyzing and processing high-volume datasets across financial and retail operations.
 Proficient in:
@@ -33,18 +16,18 @@ Proficient in:
 
 ---
 
-## 🛠️ Technology Stack
-<p><h3>Programming Languages:</h3> SQL, Python, Power Query, VBA</p>  
+### 🛠️ Technology Stack
+<strong>Programming Languages:</strong> SQL, Python, Power Query, VBA
 
-<p><h3>Libraries:</h3> Pandas, NumPy, Matplotlib, Seaborn</p>  
+<strong>Libraries:</strong> Pandas, NumPy, Matplotlib, Seaborn
 
-<p><h3>Visualization:</h3> Power BI, Tableau</p>  
+<strong>Visualization:</strong> Power BI, Tableau
 
-<p><h3>Databases:</h3> PostgreSQL, MySQL</p> 
+<strong>Databases:</strong> PostgreSQL, MySQL
 
 ---
 
-## 📩 **Contact**  
+### 📩 **Contact**  
 - **LinkedIn**: [linkedin.com/in/jpoplavska](https://www.linkedin.com/in/jpoplavska)
 - **Email**: j.p.julia.poplavska@gmail.com
 ---
