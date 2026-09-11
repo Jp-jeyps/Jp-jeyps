@@ -1,8 +1,9 @@
 # Julia Poplavska
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=Python+%E2%80%A2+SQL+%E2%80%A2+Power+Bi+%E2%80%A2+Excel" alt="Typing SVG" /></a>
-
-[View my CV](https://github.com/user-attachments/files/xxxxxxx/CV-en.pdf)
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=Python+%E2%80%A2+SQL+%E2%80%A2+Power+Bi+%E2%80%A2+Excel" alt="Python - SQL - Power Bi - Excel"></a></br>
+<a href="https://github.com/user-attachments/files/xxxxxxx/CV-en.pdf">View my CV</a>
+</div>
  
 ---
 
