@@ -7,17 +7,17 @@
  
 ---
 
-### 👋 About Me
+### ABOUT ME
 
-Data Specialist with **3 years** of practical experience processing high-volume datasets across financial and retail operations.
+Data Analyst with **3 years** of experience processing high-volume datasets in financial reporting and inventory analytics. 
 Proficient in:
-- **Extracting and transforming** data using Python.
-- **Improving** data processing through tailored pipelines and custom apps.
-- **Developing** SQL queries and working with databases
+- **Extracting and transforming** data using Python, VBA and Power Query.
+- **Building** end-to-end ETL pipelines to automate recurring tasks.
+- **Designing** SQL queries and data validation checks, achieving faster data retrieval and eliminating manual errors.
 
 ---
 
-### 🛠️ Technology Stack
+### STACK
 <strong>Programming Languages:</strong> SQL, Python, Power Query, VBA
 
 <strong>Libraries:</strong> Pandas, NumPy, Matplotlib, Seaborn
